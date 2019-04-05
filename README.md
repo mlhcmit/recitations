@@ -9,3 +9,7 @@ On Fridays at 2pm, we will hold optional recitation in room 4-153.
 **Mar 1, 2019**: We explored MarketScan. [[slides](rec3-slides.pdf), [notebook](rec3-notebook.ipynb)]
 
 **Mar 8, 2019**: Alistair Johnson presented on chest x-ray datasets. [[slides](rec4-slides.pdf)]
+
+**Mar 15, 2019**: We reviewed details about the final projects. [[slides](rec5-slides.pdf)]
+
+**Apr 5, 2019**: We examined causal inference case studies. [[slides](rec6-slides.pdf)]
